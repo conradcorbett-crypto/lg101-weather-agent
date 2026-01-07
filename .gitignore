@@ -172,3 +172,6 @@ cython_debug/
 /resources_to_reference
 
 vertexCred.json
+
+# uv
+uv.lock
