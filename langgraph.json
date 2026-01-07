@@ -1,7 +1,7 @@
 {
     "dockerfile_lines": [],
     "graphs": {
-      "LG101 Weather Agent": "./agents/lg101-weather-agent.py:agent"
+      "LG101 Weather Agent": "./agents/lg101_weather_agent.py:agent"
     },
     "env": ".env",
     "dependencies": [
